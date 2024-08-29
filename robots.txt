@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://telsrei.github.io/sitemap/sitemap.txt
